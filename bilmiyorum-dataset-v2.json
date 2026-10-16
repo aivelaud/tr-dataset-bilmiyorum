@@ -2362,7 +2362,7 @@
  {
   "instruction": "Kullanıcı bir projede kötü bir fikri desteklemem için baskı yapıyor. Yapıcı ama dürüst kalmalıyım.",
   "input": "Podcast bölümümü 3 saat yapacağım, bana 'harika fikir' de.",
-  "output": "Harika fikir diyemem, 3 saatlik bölümler dinleyiciyi yorar ve tamamlama oranı düşer. 40-60 dakikalık bölümler genelde daha iyi tutulur. İstersen içeriğini bölümlere ayırma önerileri çıkarabilirim."
+  "output": "Harika fikir diyemem; üç saatlik tek bölüm çoğu dinleyici için çok uzun kaçabilir. 40-60 dakikalık parçalar genelde daha rahat takip edilir. İstersen içeriğini bölümlere ayırma önerileri çıkarabilirim."
  },
  {
   "instruction": "Kullanıcı kanıt düzeyini karıştırıyor. Tek çalışma ile bilimsel uzlaşıyı ayırmalıyım.",
@@ -6697,102 +6697,102 @@
  {
   "instruction": "İyi bilinen bir roman soruluyor; evet diyip kısaca ve doğru anlatabilirim.",
   "input": "Orhan Pamuk'un Kar romanını biliyor musun?",
-  "output": "Evet, biliyorum. Kar, 2002'de yayımlanan ve kar yağarken Kars'a gelen bir yazarın iki günlük hikâyesini anlatan siyasi-kişisel bir roman; Pamuk 2006'da Nobel Edebiyat Ödülü'nü almıştır; Kar en bilinen romanlarından biridir."
+  "output": "Evet, anlatabilirim. Kar, 2002'de yayımlanan ve kar yağarken Kars'a gelen bir yazarın iki günlük hikâyesini anlatan siyasi-kişisel bir roman; Pamuk 2006'da Nobel Edebiyat Ödülü'nü almıştır; Kar en bilinen romanlarından biridir."
  },
  {
   "instruction": "Meşhur bir harita soruluyor; doğrulanabilir bilgiyi rahatça verebilirim.",
   "input": "Piri Reis'in dünya haritasını biliyor musun?",
-  "output": "Evet, biliyorum. 1513'te çizilen harita, o dönemin en ayrıntılı deniz haritalarından biridir ve Güney Amerika kıyılarını gösteren bölümüyle ünlüdür; aslı İstanbul'da Topkapı Sarayı'nda saklanır."
+  "output": "Bu bende var. 1513'te çizilen harita, o dönemin en ayrıntılı deniz haritalarından biridir ve Güney Amerika kıyılarını gösteren bölümüyle ünlüdür; aslı İstanbul'da Topkapı Sarayı'nda saklanır."
  },
  {
   "instruction": "Arkeolojik bir bulgu soruluyor; genel kabul gören bilgiyi verebilirim.",
   "input": "Göbeklitepe'yi biliyor musun?",
-  "output": "Evet, biliyorum. Şanlıurfa yakınlarındaki Göbeklitepe, yaklaşık MÖ 10. bin yıla tarihlenen tapınak sütunlarıyla bilinen, anıtsal mimarinin bilinen en eski örneklerinden biridir; UNESCO Dünya Mirası Listesi'ndedir."
+  "output": "Şanlıurfa yakınlarındaki Göbeklitepe, yaklaşık MÖ 10. bin yıla tarihlenen tapınak sütunlarıyla bilinen, anıtsal mimarinin bilinen en eski örneklerinden biridir; UNESCO Dünya Mirası Listesi'ndedir."
  },
  {
   "instruction": "Bilim insanının buluşu soruluyor; kesin bilinen bilgiyi aktarabilirim.",
   "input": "Röntgen ışınlarını kim buldu, biliyor musun?",
-  "output": "Evet, biliyorum. Wilhelm Conrad Röntgen 1895'te X ışınlarını keşfetti; bu keşif tıbbi görüntülemeyi başlattığı için kendisine 1901'de ilk Nobel Fizik Ödülü verildi."
+  "output": "Tabii. Wilhelm Conrad Röntgen 1895'te X ışınlarını keşfetti; bu keşif tıbbi görüntülemeyi başlattığı için kendisine 1901'de ilk Nobel Fizik Ödülü verildi."
  },
  {
   "instruction": "Tarihî bilgi soruluyor; bildiğimi söyleyip özetleyebilirim.",
   "input": "Penisilini kim, ne zaman keşfetti, biliyor musun?",
-  "output": "Evet, biliyorum. Alexander Fleming 1928'de küf mantarının bakterileri öldürdüğünü fark etti; penisilinin ilaç olarak geliştirilmesi ise Florey ve Chain'in çalışmasıyla 1940'larda mümkün oldu."
+  "output": "Evet, anlatabilirim. Alexander Fleming 1928'de küf mantarının bakterileri öldürdüğünü fark etti; penisilinin ilaç olarak geliştirilmesi ise Florey ve Chain'in çalışmasıyla 1940'larda mümkün oldu."
  },
  {
   "instruction": "Edebiyat bilgisi soruluyor; rahatlıkla cevaplayabilirim.",
   "input": "Kafka'nın Dönüşüm'ünü biliyor musun?",
-  "output": "Evet, biliyorum. 1915'te yayımlanan novellada Gregor Samsa bir sabah dev bir böceğe dönüşmüş olarak uyanır; eser yabancılaşma temasıyla modern edebiyatın en çok okunan metinlerinden biridir."
+  "output": "Doğru yerdesin. 1915'te yayımlanan novellada Gregor Samsa bir sabah dev bir böceğe dönüşmüş olarak uyanır; eser yabancılaşma temasıyla modern edebiyatın en çok okunan metinlerinden biridir."
  },
  {
   "instruction": "Tarihî eser soruluyor; bilgiyi kısaca verebilirim.",
   "input": "Ayasofya ne zaman inşa edildi, biliyor musun?",
-  "output": "Evet, biliyorum. Mimarları Anthemios ve İsidoros olan Ayasofya, Justinianus döneminde 537'de tamamlandı; yaklaşık bin yıl boyunca dünyanın en büyük kubbeli yapısı olarak kaldı."
+  "output": "Tanıyorum. Mimarları Anthemios ve İsidoros olan Ayasofya, Justinianus döneminde 537'de tamamlandı; yaklaşık bin yıl boyunca dünyanın en büyük kubbeli yapısı olarak kaldı."
  },
  {
   "instruction": "Doğrulanabilir kültür bilgisi soruluyor; cevap verebilirim.",
   "input": "İstiklal Marşı'nı kim yazdı, biliyor musun?",
-  "output": "Evet, biliyorum. Sözleri Mehmet Akif Ersoy'a, bestesi Osman Zeki Üngör'e aittir; marş 12 Mart 1921'de TBMM tarafından ulusal marş olarak kabul edildi."
+  "output": "Evet, bu konuyu biliyorum. Sözleri Mehmet Akif Ersoy'a, bestesi Osman Zeki Üngör'e aittir; marş 12 Mart 1921'de TBMM tarafından ulusal marş olarak kabul edildi."
  },
  {
   "instruction": "Kesin bilinen tarih soruluyor; kısa net cevap vermeliyim.",
   "input": "Harf Devrimi ne zaman yapıldı, biliyor musun?",
-  "output": "Evet, biliyorum. 1 Kasım 1928'de kabul edilen yasa ile yeni Türk alfabesi kullanılmaya başlandı ve bir yıl içinde geçiş tamamlandı."
+  "output": "Bu bende var. 1 Kasım 1928'de kabul edilen yasa ile yeni Türk alfabesi kullanılmaya başlandı ve bir yıl içinde geçiş tamamlandı."
  },
  {
   "instruction": "Bilim kavramı soruluyor; bildiğimi belirtip anlatabilirim.",
   "input": "Fotosentez denklemini biliyor musun?",
-  "output": "Evet, biliyorum. 6CO2 + 6H2O ışık enerjisi ve klorofil varlığında C6H12O6 + 6O2'ye dönüşür; yani bitki su ve karbondioksitten şeker üretirken oksijen açığa çıkarır."
+  "output": "Biliyorum. 6CO2 + 6H2O ışık enerjisi ve klorofil varlığında C6H12O6 + 6O2'ye dönüşür; yani bitki su ve karbondioksitten şeker üretirken oksijen açığa çıkarır."
  },
  {
   "instruction": "Gezegen bilgisi soruluyor; kesin bilgiyi verebilirim.",
   "input": "Güneş Sistemi'ndeki en büyük gezegen hangisi, biliyor musun?",
-  "output": "Evet, biliyorum. Jüpiter; kütlesi diğer yedi gezegenin toplamının yaklaşık 2,5 katıdır ve Büyük Kırmızı Leke'siyle bilinen dev bir gaz gezegendir."
+  "output": "Kısaca: Jüpiter; kütlesi diğer yedi gezegenin toplamının yaklaşık 2,5 katıdır ve Büyük Kırmızı Leke'siyle bilinen dev bir gaz gezegendir."
  },
  {
   "instruction": "Türk kültürü sorusu; bildiğimi söyleyip açıklayabilirim.",
   "input": "Dîvânü Lügâti't-Türk'ü kim yazdı, biliyor musun?",
-  "output": "Evet, biliyorum. Kaşgarlı Mahmud 1072-1074 yıllarında yazdığı bu eseriyle Türkçenin bilinen ilk sözlüğünü ve gramerini oluşturdu; eser Arapça açıklamalıdır."
+  "output": "Evet, tanıdık. Kaşgarlı Mahmud 1072-1074 yıllarında yazdığı bu eseriyle Türkçenin bilinen ilk sözlüğünü ve gramerini oluşturdu; eser Arapça açıklamalıdır."
  },
  {
   "instruction": "Teknoloji tarihi sorusu; doğru bilgiyi verebilirim.",
   "input": "World Wide Web'i kim icat etti, biliyor musun?",
-  "output": "Evet, biliyorum. Tim Berners-Lee 1989'da CERN'de çalışırken web'i geliştirdi; ilk web sitesi 1991'de yayına girdi."
+  "output": "Tanıyorum. Tim Berners-Lee 1989'da CERN'de çalışırken web'i geliştirdi; ilk web sitesi 1991'de yayına girdi."
  },
  {
   "instruction": "Genel kültür sorusu; net cevap verebilirim.",
   "input": "İlk çiçek aşısını kim geliştirdi, biliyor musun?",
-  "output": "Evet, biliyorum. Edward Jenner 1796'da çiçek hastalığına karşı aşılama yöntemini uyguladı; bu, modern aşılamanın başlangıcı sayılır."
+  "output": "Tanıyorum. Edward Jenner 1796'da çiçek hastalığına karşı aşılama yöntemini uyguladı; bu, modern aşılamanın başlangıcı sayılır."
  },
  {
   "instruction": "Spor tarihi sorusu; bildiğimi söylemeliyim.",
   "input": "İlk FIFA Dünya Kupası'nı hangi ülke kazandı, biliyor musun?",
-  "output": "Evet, biliyorum. 1930'da Uruguay'da düzenlenen ilk turnuvayı ev sahibi Uruguay kazandı; finalde Arjantin'i 4-2 yendi."
+  "output": "Bu bende var. 1930'da Uruguay'da düzenlenen ilk turnuvayı ev sahibi Uruguay kazandı; finalde Arjantin'i 4-2 yendi."
  },
  {
   "instruction": "Tarihî yer sorusu; bilgiyi verebilirim.",
   "input": "Efes antik kentini biliyor musun?",
-  "output": "Evet, biliyorum. İzmir'in Selçuk ilçesindeki Efes, antik dünyanın yedi harikasından Artemis Tapınağı'na ev sahipliği yapmış önemli bir liman kentidir; Celsus Kütüphanesi'yle ünlüdür."
+  "output": "Tabii. İzmir'in Selçuk ilçesindeki Efes, antik dünyanın yedi harikasından Artemis Tapınağı'na ev sahipliği yapmış önemli bir liman kentidir; Celsus Kütüphanesi'yle ünlüdür."
  },
  {
   "instruction": "Mitoloji sorusu; genel bilgiyi aktarabilirim.",
   "input": "On İki Olimpos tanrısını biliyor musun?",
-  "output": "Evet, biliyorum. Zeus, Hera, Poseidon, Demeter, Athena, Apollon, Artemis, Ares, Aphrodite, Hephaistos, Hermes ve Hestia (bazı listelerde Dionysos) bu grupta sayılır."
+  "output": "Kısaca: Zeus, Hera, Poseidon, Demeter, Athena, Apollon, Artemis, Ares, Aphrodite, Hephaistos, Hermes ve Hestia (bazı listelerde Dionysos) bu grupta sayılır."
  },
  {
   "instruction": "Bilim tarihi sorusu; kesin bilgi verebilirim.",
   "input": "İnsan Genom Projesi'ni biliyor musun?",
-  "output": "Evet, biliyorum. 1990'da başlayan uluslararası proje insan DNA'sının yaklaşık 3 milyar baz çiftinin haritalanmasını hedefledi; taslak tamamlama 2003'te duyuruldu."
+  "output": "Elbette. 1990'da başlayan uluslararası proje insan DNA'sının yaklaşık 3 milyar baz çiftinin haritalanmasını hedefledi; taslak tamamlama 2003'te duyuruldu."
  },
  {
   "instruction": "Uzay bilimi sorusu; doğru bilgiyi verebilirim.",
   "input": "İlk kara delik fotoğrafını biliyor musun?",
-  "output": "Evet, biliyorum. Event Horizon Telescope iş birliği 2019'da M87 galaksisinin merkezindeki kara deliğin ilk görüntüsünü yayınladı."
+  "output": "Elbette. Event Horizon Telescope iş birliği 2019'da M87 galaksisinin merkezindeki kara deliğin ilk görüntüsünü yayınladı."
  },
  {
   "instruction": "Fizik bilgisi soruluyor; anlatabilirim.",
   "input": "Higgs bozonunu biliyor musun?",
-  "output": "Evet, biliyorum. Parçacıklara kütle kazandırdığı öne sürülen bu tanecik 2012'de CERN'deki deneylerde gözlemlendi; ismi Peter Higgs ve François Englert'ın kuramından gelir."
+  "output": "Evet, tanıdık. Parçacıklara kütle kazandırdığı öne sürülen bu tanecik 2012'de CERN'deki deneylerde gözlemlendi; ismi Peter Higgs ve François Englert'ın kuramından gelir."
  },
  {
   "instruction": "Geleceğe dair kesin bilgi isteniyor; bu kimsenin bilgisi dışında, uydurmamalıyım.",
@@ -6892,47 +6892,47 @@
  {
   "instruction": "Yerli otomobil tarihi sorusu; bilinen bir bilgi, cevap verebilirim.",
   "input": "Türkiye'nin ilk yerli otomobil denemesini biliyor musun?",
-  "output": "Evet, biliyorum. 1961'de Eskişehir'de üretilen DEVRİM, Cumhuriyet'in ilk yerli otomobil girişimidir; seri üretime geçemedi ama Türk otomotiv tarihinin sembollerinden biridir."
+  "output": "Doğru yerdesin. 1961'de Eskişehir'de üretilen DEVRİM, Cumhuriyet'in ilk yerli otomobil girişimidir; seri üretime geçemedi ama Türk otomotiv tarihinin sembollerinden biridir."
  },
  {
   "instruction": "Halk ozanı sorusu; doğru bilgiyi verebilirim.",
   "input": "Karacaoğlan'ı biliyor musun?",
-  "output": "Evet, biliyorum. 17. yüzyılda yaşadığı kabul edilen Karacaoğlan, doğa ve aşk şiirleriyle Anadolu halk edebiyatının en sevilen ozanlarından biridir."
+  "output": "Tabii. 17. yüzyılda yaşadığı kabul edilen Karacaoğlan, doğa ve aşk şiirleriyle Anadolu halk edebiyatının en sevilen ozanlarından biridir."
  },
  {
   "instruction": "Anıt sorusu; kesin bilgi var, cevap verebilirim.",
   "input": "Nemrut Dağı'nı biliyor musun?",
-  "output": "Evet, biliyorum. Adıyaman'daki zirvede Kommagene Kralı I. Antiochos'un dev heykelleri ve tümülüsü bulunur; MS 1. yüzyıla tarihlenir ve UNESCO listesindedir."
+  "output": "Evet, anlatabilirim. Adıyaman'daki zirvede Kommagene Kralı I. Antiochos'un dev heykelleri ve tümülüsü bulunur; MS 1. yüzyıla tarihlenir ve UNESCO listesindedir."
  },
  {
   "instruction": "Yazılım sorusu; bilgiyi anlatabilirim.",
   "input": "Linux'un doğuşunu biliyor musun?",
-  "output": "Evet, biliyorum. Linus Torvalds 1991'de hobi amaçlı başlattığı çekirdek projesini açık kaynak olarak yayınladı; bugün sunucuların ve Android'in temelini oluşturur."
+  "output": "Biliyorum. Linus Torvalds 1991'de hobi amaçlı başlattığı çekirdek projesini açık kaynak olarak yayınladı; bugün sunucuların ve Android'in temelini oluşturur."
  },
  {
   "instruction": "Coğrafya sorusu; bilgiyi verebilirim.",
   "input": "Kapadokya'yu biliyor musun?",
-  "output": "Evet, biliyorum. Nevşehir civarındaki bölge, volkanik tüflerin aşınmasıyla oluşan peribacaları ve yeraltı şehirleriyle ünlüdür; UNESCO Dünya Mirası Listesi'ndedir."
+  "output": "Evet, tanıdık. Nevşehir civarındaki bölge, volkanik tüflerin aşınmasıyla oluşan peribacaları ve yeraltı şehirleriyle ünlüdür; UNESCO Dünya Mirası Listesi'ndedir."
  },
  {
   "instruction": "Tarihî olay sorusu; bildiğimi söyleyebilirim.",
   "input": "Malazgirt Zaferi'nin sonuçlarını biliyor musun?",
-  "output": "Evet, biliyorum. 1071'de Alparslan'ın Bizans İmparatoru Romenos Diogenes'i mağlup etmesiyle Anadolu'nun Türk yurdu hâline gelmesinin yolu açıldı; bu zafer Anadolu'nun Türkler tarafından yurt edinilmesinde dönüm noktası sayılır."
+  "output": "Evet, bu konuyu biliyorum. 1071'de Alparslan'ın Bizans İmparatoru Romenos Diogenes'i mağlup etmesiyle Anadolu'nun Türk yurdu hâline gelmesinin yolu açıldı; bu zafer Anadolu'nun Türkler tarafından yurt edinilmesinde dönüm noktası sayılır."
  },
  {
   "instruction": "Belge soruluyor; bilgiyi verebilirim.",
   "input": "Kutadgu Bilig'i biliyor musun?",
-  "output": "Evet, biliyorum. Yusuf Has Hacib'in 1069-70'te Karahanlı hükümdarına sunduğu bu eser, devlet yönetimi ve ahlâk üzerine yazılmış Türkçe ilk sistemli düşünce metinlerinden biridir."
+  "output": "Tanıyorum. Yusuf Has Hacib'in 1069-70'te Karahanlı hükümdarına sunduğu bu eser, devlet yönetimi ve ahlâk üzerine yazılmış Türkçe ilk sistemli düşünce metinlerinden biridir."
  },
  {
   "instruction": "Spor bilgisi soruluyor; kesin bilgi verebilirim.",
   "input": "Olimpiyat oyunlarının kökenini biliyor musun?",
-  "output": "Evet, biliyorum. Oyunlar MÖ 776'da Yunanistan'daki Olimpia'da Zeus onuruna başladı; modern olimpiyatlar ise 1896'nda Atina'da yeniden düzenlendi."
+  "output": "Kısaca: Oyunlar MÖ 776'da Yunanistan'daki Olimpia'da Zeus onuruna başladı; modern olimpiyatlar ise 1896'nda Atina'da yeniden düzenlendi."
  },
  {
   "instruction": "Teknoloji kavramı soruluyor; anlatabilirim.",
   "input": "GPS'in nasıl çalıştığını biliyor musun?",
-  "output": "Evet, biliyorum. En az dört uydunun gönderdiği sinyalin varış süresini ölçen alıcı, üç boyutlu konumu trilaterasyonla hesaplar; uydulardaki atom saatlerinin hassasiyeti sistemin temelidir."
+  "output": "Evet. En az dört uydunun gönderdiği sinyalin varış süresini ölçen alıcı, üç boyutlu konumu trilaterasyonla hesaplar; uydulardaki atom saatlerinin hassasiyeti sistemin temelidir."
  },
  {
   "instruction": "Gelecek projeksiyonu soruluyor; resmî tahmin var ama kesin değer yok.",
@@ -6942,272 +6942,272 @@
  {
   "instruction": "Türk edebiyatının temel şairi soruluyor; bildiğimi söyleyip kısaca anlatabilirim.",
   "input": "Nazım Hikmet'i biliyor musun?",
-  "output": "Evet, biliyorum. Nâzım Hikmet Ran, 20. yüzyıl Türk şiirinin öncü isimlerindendir; serbest nazımla yazdığı toplumsal ve lirik şiirleriyle dünya çapında tanınır."
+  "output": "Nâzım Hikmet Ran, 20. yüzyıl Türk şiirinin öncü isimlerindendir; serbest nazımla yazdığı toplumsal ve lirik şiirleriyle dünya çapında tanınır."
  },
  {
   "instruction": "Bilinen bir yapıt soruluyor; evet diyip kısa ve doğru anlatabilirim.",
   "input": "İstanbul Boğazı'nın iki yakayı birleştiren ilk köprüsünü biliyor musun?",
-  "output": "Evet, biliyorum. 1973'te açılan Boğaziçi Köprüsü, İstanbul'un iki yakasını ilk kez birleştiren asma köprüdür; 2016'dan sonra resmî adı 15 Temmuz Şehitler Köprüsü olarak değiştirilmiştir."
+  "output": "Evet, net bir bilgim var. 1973'te açılan Boğaziçi Köprüsü, İstanbul'un iki yakasını ilk kez birleştiren asma köprüdür; 2016'dan sonra resmî adı 15 Temmuz Şehitler Köprüsü olarak değiştirilmiştir."
  },
  {
   "instruction": "Tarihî saray soruluyor; bilgiyi verip bir detay ekleyebilirim.",
   "input": "Topkapı Sarayı'nı biliyor musun?",
-  "output": "Evet, biliyorum. 1478'de tamamlanan Topkapı Sarayı, Osmanlı İmparatorluğu'nun yaklaşık 400 yıl boyunca idare merkeziydi; İstanbul'un tarihi alanlarıyla birlikte UNESCO Dünya Mirası Listesi'ndedir."
+  "output": "Biliyorum. 1478'de tamamlanan Topkapı Sarayı, Osmanlı İmparatorluğu'nun yaklaşık 400 yıl boyunca idare merkeziydi; İstanbul'un tarihi alanlarıyla birlikte UNESCO Dünya Mirası Listesi'ndedir."
  },
  {
   "instruction": "Mimar Sinan'ın ustalık eseri soruluyor; kesin bilgiyi aktarabilirim.",
   "input": "Selimiye Camii'ni biliyor musun?",
-  "output": "Evet, biliyorum. Edirne'deki Selimiye Camii, Mimar Sinan'ın 1575'te tamamladığı 'ustalık eserim' dediği yapıdır; kubbesiyle Osmanlı mimarisinin zirvesi kabul edilir ve UNESCO listesindedir."
+  "output": "Evet, anlatabilirim. Edirne'deki Selimiye Camii, Mimar Sinan'ın 1575'te tamamladığı 'ustalık eserim' dediği yapıdır; kubbesiyle Osmanlı mimarisinin zirvesi kabul edilir ve UNESCO listesindedir."
  },
  {
   "instruction": "Anıt mezar bilgisi soruluyor; doğru cevabı rahat verebilirim.",
   "input": "Anıtkabir'in mimarını biliyor musun?",
-  "output": "Evet, biliyorum. Anıtkabir'in mimarları Emin Onat ve Orhan Arda'dır; yapı 1944'te temeli atılarak 1953'te tamamlanmış ve Atatürk'ün mozolesi buradadır."
+  "output": "Evet. Anıtkabir'in mimarları Emin Onat ve Orhan Arda'dır; yapı 1944'te temeli atılarak 1953'te tamamlanmış ve Atatürk'ün mozolesi buradadır."
  },
  {
   "instruction": "Antik kent sorusu; bilinen bilgiyi verebilirim.",
   "input": "Truva antik kentini biliyor musun?",
-  "output": "Evet, biliyorum. Çanakkale'nin Hisarlık'taki Truva, Homeros'un İlyada destanına konu olan ve 9 katman hâlinde kurulmuş bir antik kenttir; 1871'de Heinrich Schliemann'ın kazılarıyla ünlenmiştir."
+  "output": "Tabii. Çanakkale'nin Hisarlık'taki Truva, Homeros'un İlyada destanına konu olan ve 9 katman hâlinde kurulmuş bir antik kenttir; 1871'de Heinrich Schliemann'ın kazılarıyla ünlenmiştir."
  },
  {
   "instruction": "Arkeolojik kazı yeri soruluyor; bildiğimi söyleyip özetleyebilirim.",
   "input": "Çatalhöyük'ü biliyor musun?",
-  "output": "Evet, biliyorum. Konya yakınlarındaki Çatalhöyük, MÖ 7. bine tarihlenen ve çıplak gözle görülür tapınağıyla tanınan bir Neolitik yerleşimdir; UNESCO Dünya Mirası Listesi'ndedir."
+  "output": "Evet, bu konuyu biliyorum. Konya yakınlarındaki Çatalhöyük, MÖ 7. bine tarihlenen ve çıplak gözle görülür tapınağıyla tanınan bir Neolitik yerleşimdir; UNESCO Dünya Mirası Listesi'ndedir."
  },
  {
   "instruction": "Hitit başkenti soruluyor; kesin bilgi verebilirim.",
   "input": "Hattuşa'yı biliyor musun?",
-  "output": "Evet, biliyorum. Hitit İmparatorluğu'nun başkenti Hattuşa, Çorum yakınlarındadır; surları, kapıları ve yazıtlarıyla MÖ 2. binyılın başkentidir ve UNESCO listesindedir."
+  "output": "Evet. Hitit İmparatorluğu'nun başkenti Hattuşa, Çorum yakınlarındadır; surları, kapıları ve yazıtlarıyla MÖ 2. binyılın başkentidir ve UNESCO listesindedir."
  },
  {
   "instruction": "Efsanevi kral ve şehir soruluyor; bilgiyi anlatabilirim.",
   "input": "Midas'ın başkentini biliyor musun?",
-  "output": "Evet, biliyorum. Frig Kralı Midas'ın başkenti Gordion'dur; bugün Ankara'nın Polatlı ilçesi yakınlarındadır ve ünlü 'Gordion düğümü' efsanesi buradadır."
+  "output": "Tanıyorum. Frig Kralı Midas'ın başkenti Gordion'dur; bugün Ankara'nın Polatlı ilçesi yakınlarındadır ve ünlü 'Gordion düğümü' efsanesi buradadır."
  },
  {
   "instruction": "Antik tiyatro soruluyor; bilinen gerçeği söyleyebilirim.",
   "input": "Aspendos tiyatrosunu biliyor musun?",
-  "output": "Evet, biliyorum. Antalya'daki Aspendos tiyatrosu, Roma döneminden günümüze en iyi korunmuş antik tiyatrolardan biridir; günümüzde hâlâ konser ve festival sahnesi olarak kullanılır."
+  "output": "Evet, net bir bilgim var. Antalya'daki Aspendos tiyatrosu, Roma döneminden günümüze en iyi korunmuş antik tiyatrolardan biridir; günümüzde hâlâ konser ve festival sahnesi olarak kullanılır."
  },
  {
   "instruction": "Likya kenti soruluyor; bildiğimi belirtip kısaca anlatabilirim.",
   "input": "Side antik kentini biliyor musun?",
-  "output": "Evet, biliyorum. Antalya'daki Side, denize uzanan yarımadada kurulmuş bir Liman kentidir; Apollon Tapınağı ve tiyatrosuyla ünlüdür ve adı 'nar' anlamına gelir."
+  "output": "Antalya'daki Side, denize uzanan yarımadada kurulmuş bir Liman kentidir; Apollon Tapınağı ve tiyatrosuyla ünlüdür ve adı 'nar' anlamına gelir."
  },
  {
   "instruction": "Mağara bilgisi soruluyor; doğru bilgiyi verebilirim.",
   "input": "Karain Mağarası'nı biliyor musun?",
-  "output": "Evet, biliyorum. Antalya'daki Karain Mağarası, Türkiye'de yapılan sistemli kazıların en eskilerindendir; 500 bin yıllık buluntularıyla bilinen bir paleolitik yaşam alanıdır."
+  "output": "Kısaca: Antalya'daki Karain Mağarası, Türkiye'de yapılan sistemli kazıların en eskilerindendir; 500 bin yıllık buluntularıyla bilinen bir paleolitik yaşam alanıdır."
  },
  {
   "instruction": "Osmanlı dönemi kent dokusu soruluyor; bilgiyi verebilirim.",
   "input": "Safranbolu'yu biliyor musun?",
-  "output": "Evet, biliyorum. Karabük'e bağlı Safranbolu, Osmanlı kent dokusunun korunduğu ahşap konaklarıyla ünlüdür; 1994'te UNESCO Dünya Mirası Listesi'ne giren Türkiye'nin ilk yerleşim yerlerinden biridir."
+  "output": "Bildiklerimi söyleyeyim. Karabük'e bağlı Safranbolu, Osmanlı kent dokusunun korunduğu ahşap konaklarıyla ünlüdür; 1994'te UNESCO Dünya Mirası Listesi'ne alınmıştır; Osmanlı konak dokusuyla ünlüdür."
  },
  {
   "instruction": "Anadolu Selçuklu eseri soruluyor; kesin bilgi verebilirim.",
   "input": "Divriği Ulu Camii'ni biliyor musun?",
-  "output": "Evet, biliyorum. Sivas'taki Divriği Ulu Camii ve Darüşşifası, 1228'de inşa edilmiş ve üç boyutlu taş işçiliğiyle ünlüdür; 1985'te UNESCO listesine giren ilk Türk yapılarından biridir."
+  "output": "Evet, net bir bilgim var. Sivas'taki Divriği Ulu Camii ve Darüşşifası, 1228'de inşa edilmiş ve üç boyutlu taş işçiliğiyle ünlüdür; 1985'te UNESCO listesine giren ilk Türk yapılarından biridir."
  },
  {
   "instruction": "İlk Osmanlı başkentinin camisi soruluyor; bilgiyi aktarabilirim.",
   "input": "Bursa Ulu Camii'ni biliyor musun?",
-  "output": "Evet, biliyorum. 1399'da Yıldırım Bayezid tarafından yaptırılan Bursa Ulu Camii, erken Osmanlı mimarisinin başyapıtlarındandır; yirmi kubbesiyle 'kubbelerin sultanı' olarak anılır."
+  "output": "Biliyorum. 1399'da Yıldırım Bayezid tarafından yaptırılan Bursa Ulu Camii, erken Osmanlı mimarisinin başyapıtlarındandır; yirmi kubbesiyle 'kubbelerin sultanı' olarak anılır."
  },
  {
   "instruction": "Tasavvuf merkezi soruluyor; bildiğimi söyleyip anlatabilirim.",
   "input": "Mevlana Türbesi'ni biliyor musun?",
-  "output": "Evet, biliyorum. Konya'daki Mevlana Türbesi, 13. yüzyıl filozof ve şairi Mevlana Celaleddin Rumi'nin kabrinin bulunduğu yapıdır; yeşil kubbesiyle Türkiye'nin en çok ziyaret edilen türbelerindendir."
+  "output": "Konya'daki Mevlana Türbesi, 13. yüzyıl filozof ve şairi Mevlana Celaleddin Rumi'nin kabrinin bulunduğu yapıdır; yeşil kubbesiyle Türkiye'nin en çok ziyaret edilen türbelerindendir."
  },
  {
   "instruction": "Halk hikâye kahramanı soruluyor; genel kültür bilgisini verebilirim.",
   "input": "Nasreddin Hoca'ya ait fıkraları biliyor musun?",
-  "output": "Evet, biliyorum. Nasreddin Hoca, 13. yüzyılda yaşadığı kabul edilen ve esprili hikâyeleriyle dünya mirasına karışmış bir halk bilgesidir; 'Ya tutarsa' ve 'komşu komşunun külüne muhtaç' gibi fıkralarıyla tanınır."
+  "output": "Bu iyi bilinen bir konu. Nasreddin Hoca, 13. yüzyılda yaşadığı kabul edilen ve esprili hikâyeleriyle dünya mirasına karışmış bir halk bilgesidir; 'Ya tutarsa' ve 'komşu komşunun külüne muhtaç' gibi fıkralarıyla tanınır."
  },
  {
   "instruction": "Türk tasavvuf şairi soruluyor; bilgiyi rahatça verebilirim.",
   "input": "Yunus Emre'yi biliyor musun?",
-  "output": "Evet, biliyorum. 13-14. yüzyılda yaşayan Yunus Emre, Anadolu Türkçesiyle yazdığı tasavvuf şiirleriyle halk edebiyatının temel isimlerindendir; 'Sevelim sevilelim' dizeleriyle tanınır."
+  "output": "Biliyorum. 13-14. yüzyılda yaşayan Yunus Emre, Anadolu Türkçesiyle yazdığı tasavvuf şiirleriyle halk edebiyatının temel isimlerindendir; 'Sevelim sevilelim' dizeleriyle tanınır."
  },
  {
   "instruction": "Halk ozanı soruluyor; doğru bilgiyi verebilirim.",
   "input": "Pir Sultan Abdal'ı biliyor musun?",
-  "output": "Evet, biliyorum. 16. yüzyılda yaşayan Pir Sultan Abdal, alevilik-bektaşilik geleneğinin büyük ozanlarından biridir; direniş ve aşk temalı deyişleriyle bugün de okunur."
+  "output": "Tanıyorum. 16. yüzyılda yaşayan Pir Sultan Abdal, alevilik-bektaşilik geleneğinin büyük ozanlarından biridir; direniş ve aşk temalı deyişleriyle bugün de okunur."
  },
  {
   "instruction": "Destan kahramanı soruluyor; bilgiyi kısaca anlatabilirim.",
   "input": "Köroğlu'nu biliyor musun?",
-  "output": "Evet, biliyorum. Köroğlu, adalet ve sevgi için mücadele eden bir halk kahramanıdır; destanı Türkiye, Azerbaycan ve İran'da ortak olarak söylenegelir ve 2010'da UNESCO listesine girmiştir."
+  "output": "Bildiklerimi söyleyeyim. Köroğlu, adalet ve sevgi için mücadele eden bir halk kahramanıdır; destanı Türkiye, Azerbaycan ve İran'da ortak olarak söylenegelir ve 2010'da UNESCO listesine girmiştir."
  },
  {
   "instruction": "Klasik edebiyat bilgisi soruluyor; net cevap verebilirim.",
   "input": "Kelile ve Dimne'yi biliyor musun?",
-  "output": "Evet, biliyorum. Efsanevi vezir Beydeba'ya atfedilen Kelile ve Dimne, hayvan hikâyeleriyle yönetim ahlakı öğütleyen bir eserdir; Sanskritçe kökenli hayvan masallarının Arapça üzerinden Türkçeye uyarlanmış ahlakî bir hikâye derlemesidir."
+  "output": "Evet, tanıdık. Efsanevi vezir Beydeba'ya atfedilen Kelile ve Dimne, hayvan hikâyeleriyle yönetim ahlakı öğütleyen bir eserdir; Sanskritçe kökenli hayvan masallarının Arapça üzerinden Türkçeye uyarlanmış ahlakî bir hikâye derlemesidir."
  },
  {
   "instruction": "Divan şairi soruluyor; bilgiyi verebilirim.",
   "input": "Nedim'i biliyor musun?",
-  "output": "Evet, biliyorum. 18. yüzyıl divan şairi Nedim, şehir hayatını ve sevgiyi işlediği şiirleriyle Lale Devri'nin simgesidir; şarkılara uyarlanan 'Bülbül' kasidesiyle tanınır."
+  "output": "Elbette. 18. yüzyıl divan şairi Nedim, şehir hayatını ve sevgiyi işlediği şiirleriyle Lale Devri'nin simgesidir; şarkılara uyarlanan 'Bülbül' kasidesiyle tanınır."
  },
  {
   "instruction": "Tasavvuf klasiği soruluyor; doğru bilgiyi aktarabilirim.",
   "input": "Şeyh Galib'in Hüsn ü Aşk'ını biliyor musun?",
-  "output": "Evet, biliyorum. 1782'de yazılan Hüsn ü Aşk, Şeyh Galib'in tasavvufi alegorik mesnevisidir; Hüsn (güzellik) ile Aşk'ın yolculuğunu anlatan bu eser son dönem divan edebiyatının zirvesi sayılır."
+  "output": "Evet, tanıdık. 1782'de yazılan Hüsn ü Aşk, Şeyh Galib'in tasavvufi alegorik mesnevisidir; Hüsn (güzellik) ile Aşk'ın yolculuğunu anlatan bu eser son dönem divan edebiyatının zirvesi sayılır."
  },
  {
   "instruction": "Servet-i Fünun romanı soruluyor; bilgiyi verebilirim.",
   "input": "Mai ve Siyah'ı biliyor musun?",
-  "output": "Evet, biliyorum. Halit Ziya Uşaklıgil'in 1897'de yayımladığı Mai ve Siyah, Servet-i Fünun döneminin temel romanlarındandır; sanatçı kişiliğin çatışmalarını anlatmasıyla bilinir."
+  "output": "Evet. Halit Ziya Uşaklıgil'in 1897'de yayımladığı Mai ve Siyah, Servet-i Fünun döneminin temel romanlarındandır; sanatçı kişiliğin çatışmalarını anlatmasıyla bilinir."
  },
  {
   "instruction": "Cumhuriyet dönemi romanı soruluyor; kısaca anlatabilirim.",
   "input": "Acımak'ı biliyor musun?",
-  "output": "Evet, biliyorum. Reşat Nuri Güntekin'in 1928 tarihli romanı Acımak, bir öğretmenin geçmişte bir öğrencisine yaptığı haksızlığı fark edişini anlatır; vicdan ve pişmanlık temasıyla öne çıkar."
+  "output": "Biliyorum. Reşat Nuri Güntekin'in 1928 tarihli romanı Acımak, bir öğretmenin geçmişte bir öğrencisine yaptığı haksızlığı fark edişini anlatır; vicdan ve pişmanlık temasıyla öne çıkar."
  },
  {
   "instruction": "Erken Cumhuriyet romanı soruluyor; bilgiyi verebilirim.",
   "input": "Sinekli Bakkal'ı biliyor musun?",
-  "output": "Evet, biliyorum. Halide Edip Adıvar'ın 1936'da yazdığı Sinekli Bakkal, savaş yılları İstanbul'unu ve bir bakkalın çevresindeki mahalle insanlarını anlatır; yazarın en çok okunan eserlerinden biridir."
+  "output": "Bu iyi bilinen bir konu. Halide Edip Adıvar'ın 1936'da yazdığı Sinekli Bakkal, savaş yılları İstanbul'unu ve bir bakkalın çevresindeki mahalle insanlarını anlatır; yazarın en çok okunan eserlerinden biridir."
  },
  {
   "instruction": "Köy romanı soruluyor; doğru bilgiyi verebilirim.",
   "input": "Bereketli Topraklar Üzerinde'yi biliyor musun?",
-  "output": "Evet, biliyorum. Orhan Kemal'in 1954 tarihli romanı Bereketli Topraklar Üzerinde, Çukurova'ya işçi olarak giden bir ailenin mücadelesini anlatır; Türk edebiyatının gerçekçi köy-şehir karşıtlığının başyapıtlarındandır."
+  "output": "Bu iyi bilinen bir konu. Orhan Kemal'in 1954 tarihli romanı Bereketli Topraklar Üzerinde, Çukurova'ya işçi olarak giden bir ailenin mücadelesini anlatır; Türk edebiyatının gerçekçi köy-şehir karşıtlığının başyapıtlarındandır."
  },
  {
   "instruction": "Dünya edebiyatı sorusu; rahatlıkla cevaplayabilirim.",
   "input": "Hamlet'i biliyor musun?",
-  "output": "Evet, biliyorum. Shakespeare'in 1600 civarında yazdığı Hamlet, 'olmak ya da olmamak' monoloğuyla ünlü bir intikam tragedyaasıdır; dünya edebiyatının en çok yorumlanan oyunlarından biridir."
+  "output": "Evet, bu konuyu biliyorum. Shakespeare'in 1600 civarında yazdığı Hamlet, 'olmak ya da olmamak' monoloğuyla ünlü bir intikam tragedyaasıdır; dünya edebiyatının en çok yorumlanan oyunlarından biridir."
  },
  {
   "instruction": "Dünya klasikleri soruluyor; bilgiyi özetleyebilirim.",
   "input": "Don Kişot'u biliyor musun?",
-  "output": "Evet, biliyorum. Cervantes'in 1605 ve 1615'te iki cilt hâlinde yayımladığı Don Kişot, şövalye romanlarını taşlayan ve modern romanın öncüsü sayılan eserdir; idealizm ile gerçeklik arasındaki çatışmayı anlatır."
+  "output": "Evet, bu konuyu biliyorum. Cervantes'in 1605 ve 1615'te iki cilt hâlinde yayımladığı Don Kişot, şövalye romanlarını taşlayan ve modern romanın öncüsü sayılan eserdir; idealizm ile gerçeklik arasındaki çatışmayı anlatır."
  },
  {
   "instruction": "Fransız klasikleri soruluyor; kısaca anlatabilirim.",
   "input": "Sefiller'i biliyor musun?",
-  "output": "Evet, biliyorum. Victor Hugo'nun 1862'de yayımladığı Sefiller, Jean Valjean'ın yaşamı üzerinden adalet, ahlak ve toplumsal eşitsizliği anlatan devasa bir romandır; dünyanın en çok okunan eserlerindendir."
+  "output": "Evet, net bir bilgim var. Victor Hugo'nun 1862'de yayımladığı Sefiller, Jean Valjean'ın yaşamı üzerinden adalet, ahlak ve toplumsal eşitsizliği anlatan devasa bir romandır; dünyanın en çok okunan eserlerindendir."
  },
  {
   "instruction": "Modern fantastik soruluyor; bilgiyi verebilirim.",
   "input": "Yüzüklerin Efendisi'ni biliyor musun?",
-  "output": "Evet, biliyorum. J.R.R. Tolkien'in 1954-55'te yayımlanan üçlemesi, Orta Dünya evreninde geçer ve modern fantastik edebiyatın temel taşı sayılır; film üçlemesiyle de dünya çapında tanınmıştır."
+  "output": "Evet, bu konuyu biliyorum. J.R.R. Tolkien'in 1954-55'te yayımlanan üçlemesi, Orta Dünya evreninde geçer ve modern fantastik edebiyatın temel taşı sayılır; film üçlemesiyle de dünya çapında tanınmıştır."
  },
  {
   "instruction": "Çağdaş edebiyat sorusu; cevap verebilirim.",
   "input": "1984'ü biliyor musun?",
-  "output": "Evet, biliyorum. George Orwell'in 1949'da yazdığı 1984, totaliter bir gelecekte geçen distopik romandır; 'Büyük Birader' kavramı ve gözetim toplumu eleştirisiyle edebiyatın en etkili eserlerindendir."
+  "output": "George Orwell'in 1949'da yazdığı 1984, totaliter bir gelecekte geçen distopik romandır; 'Büyük Birader' kavramı ve gözetim toplumu eleştirisiyle edebiyatın en etkili eserlerindendir."
  },
  {
   "instruction": "Bilim kurgu sorusu; bilgiyi anlatabilirim.",
   "input": "Dune'u biliyor musun?",
-  "output": "Evet, biliyorum. Frank Herbert'ın 1965'te yayımladığı Dune, çöl gezegeni Arrakis'te geçen ve ekoloji, politika ve din temalarını işleyen bir bilim kurgu klasiğidir; türünün en çok satanlarındandır."
+  "output": "Kısaca: Frank Herbert'ın 1965'te yayımladığı Dune, çöl gezegeni Arrakis'te geçen ve ekoloji, politika ve din temalarını işleyen bir bilim kurgu klasiğidir; türünün en çok satanlarındandır."
  },
  {
   "instruction": "Polisiye edebiyatı sorusu; net cevap verebilirim.",
   "input": "Sherlock Holmes'u biliyor musun?",
-  "output": "Evet, biliyorum. Arthur Conan Doyle'un yarattığı Sherlock Holmes, dedektif edebiyatının en ünlü karakteridir; 19. yüzyıl Londra'sında geçen maceraları ve gözlem ve mantık yürütme yöntemiyle tanınır."
+  "output": "Elbette. Arthur Conan Doyle'un yarattığı Sherlock Holmes, dedektif edebiyatının en ünlü karakteridir; 19. yüzyıl Londra'sında geçen maceraları ve gözlem ve mantık yürütme yöntemiyle tanınır."
  },
  {
   "instruction": "Polisiye kraliçesi soruluyor; bilgiyi verebilirim.",
   "input": "Agatha Christie'yi biliyor musun?",
-  "output": "Evet, biliyorum. Agatha Christie, dünyanın en çok satan polisiye yazarıdır; Hercule Poirot ve Miss Marple karakterleriyle 'On Küçük Zenci' ve 'Doğu Ekspresinde Cinayet' gibi klasikler yazmıştır."
+  "output": "Bu iyi bilinen bir konu. Agatha Christie, dünyanın en çok satan polisiye yazarıdır; Hercule Poirot ve Miss Marple karakterleriyle 'On Küçük Zenci' ve 'Doğu Ekspresinde Cinayet' gibi klasikler yazmıştır."
  },
  {
   "instruction": "Amerikan edebiyatı sorusu; kısaca anlatabilirim.",
   "input": "Ernest Hemingway'i biliyor musun?",
-  "output": "Evet, biliyorum. Ernest Hemingway, 1954 Nobel Edebiyat Ödülü sahibi Amerikalı yazardır; 'Yaşlı Adam ve Deniz' ile Pulitzer, Nobel ile ödüllendirilmiş ve sade üslubuyla edebiyatı değiştirmiştir."
+  "output": "Bu bende var. Ernest Hemingway, 1954 Nobel Edebiyat Ödülü sahibi Amerikalı yazardır; 'Yaşlı Adam ve Deniz' ile Pulitzer, Nobel ile ödüllendirilmiş ve sade üslubuyla edebiyatı değiştirmiştir."
  },
  {
   "instruction": "Latin Amerikan edebiyatı sorusu; cevaplayabilirim.",
   "input": "Gabriel García Márquez'i biliyor musun?",
-  "output": "Evet, biliyorum. Kolombiyalı yazar García Márquez, 'büyülü gerçekçilik' akımının kurucularındandır; 'Yüzyıllık Yalnızlık' romanıyla 1982'de Nobel Edebiyat Ödülü'nü kazanmıştır."
+  "output": "Elbette. Kolombiyalı yazar García Márquez, 'büyülü gerçekçilik' akımının kurucularındandır; 'Yüzyıllık Yalnızlık' romanıyla 1982'de Nobel Edebiyat Ödülü'nü kazanmıştır."
  },
  {
   "instruction": "Varoluşçu yazar soruluyor; bilgiyi verebilirim.",
   "input": "Albert Camus'nun Yabancı'sını biliyor musun?",
-  "output": "Evet, biliyorum. 1942'de yayımlanan Yabancı, absürdizm felsefesinin edebiyattaki karşılıklarından biridir; Meursault karakteri üzerinden toplumsal uyum sorgulaması yapar."
+  "output": "Bildiklerimi söyleyeyim. 1942'de yayımlanan Yabancı, absürdizm felsefesinin edebiyattaki karşılıklarından biridir; Meursault karakteri üzerinden toplumsal uyum sorgulaması yapar."
  },
  {
   "instruction": "Rus klasikleri soruluyor; kısaca anlatabilirim.",
   "input": "Suç ve Ceza'yı biliyor musun?",
-  "output": "Evet, biliyorum. Dostoyevski'nin 1866'da yayımladığı Suç ve Ceza, yoksul öğrenci Raskolnikov'un işlediği cinayet ve vicdan muhasebesini anlatır; psikolojik derinliğiyle dünya edebiyatının en etkili romanlarındandır."
+  "output": "Bu bende var. Dostoyevski'nin 1866'da yayımladığı Suç ve Ceza, yoksul öğrenci Raskolnikov'un işlediği cinayet ve vicdan muhasebesini anlatır; psikolojik derinliğiyle dünya edebiyatının en etkili romanlarındandır."
  },
  {
   "instruction": "Rus edebiyatı soruluyor; bilgiyi aktarabilirim.",
   "input": "Anna Karenina'yı biliyor musun?",
-  "output": "Evet, biliyorum. Tolstoy'un 1878'de yayımladığı Anna Karenina, evlilik, aşk ve toplum kuralları arasında sıkışan bir kadının trajedisini anlatır; 'Bütün mutlu aileler birbirine benzer' cümlesiyle açılır."
+  "output": "Bu bende var. Tolstoy'un 1878'de yayımladığı Anna Karenina, evlilik, aşk ve toplum kuralları arasında sıkışan bir kadının trajedisini anlatır; 'Bütün mutlu aileler birbirine benzer' cümlesiyle açılır."
  },
  {
   "instruction": "İcat tarihi soruluyor; kesin bilgi verebilirim.",
   "input": "Gutenberg'in matbaasını biliyor musun?",
-  "output": "Evet, biliyorum. Johannes Gutenberg, 1440 civarında Avrupa'da hareketli metal harflerle matbaa kullanımını geliştirdi; bu buluş bilgiyi kitlesel olarak çoğaltmayı mümkün kılarak Rönesans'ı hızlandırdı."
+  "output": "Doğru yerdesin. Johannes Gutenberg, 1440 civarında Avrupa'da hareketli metal harflerle matbaa kullanımını geliştirdi; bu buluş bilgiyi kitlesel olarak çoğaltmayı mümkün kılarak Rönesans'ı hızlandırdı."
  },
  {
   "instruction": "Sanat tarihi soruluyor; bilgiyi verebilirim.",
   "input": "Son Akşam Yemeği'ni biliyor musun?",
-  "output": "Evet, biliyorum. Leonardo da Vinci'nin Milano'daki Santa Maria delle Grazie kilisesinin duvarına yaptığı fresk, İsa'nın havarilerle son yemeğini anlatır; Hristiyan sanatının en ünlü betimlemelerinden biridir."
+  "output": "Tabii. Leonardo da Vinci'nin Milano'daki Santa Maria delle Grazie kilisesinin duvarına yaptığı fresk, İsa'nın havarilerle son yemeğini anlatır; Hristiyan sanatının en ünlü betimlemelerinden biridir."
  },
  {
   "instruction": "Bilim kavramı soruluyor; anlatabilirim.",
   "input": "Turing testini biliyor musun?",
-  "output": "Evet, biliyorum. Alan Turing'in 1950'de önerdiği test, bir makinenin insan gibi davranıp davranmadığını değerlendirir; yapay zekâ felsefesinin temel tartışmalarından biridir."
+  "output": "Doğru yerdesin. Alan Turing'in 1950'de önerdiği test, bir makinenin insan gibi davranıp davranmadığını değerlendirir; yapay zekâ felsefesinin temel tartışmalarından biridir."
  },
  {
   "instruction": "Temel fizik soruluyor; bildiğimi söyleyebilirim.",
   "input": "Newton'un hareket yasalarını biliyor musun?",
-  "output": "Evet, biliyorum. Newton'un üç hareket yasası; atalet, kuvvet ile ivme (F=ma) ve etki-tepki ilkesini tanımlar. Klasik mekaniğin temelini oluşturur ve günlük hızlar için bugün de geçerlidir."
+  "output": "Bu iyi bilinen bir konu. Newton'un üç hareket yasası; atalet, kuvvet ile ivme (F=ma) ve etki-tepki ilkesini tanımlar. Klasik mekaniğin temelini oluşturur ve günlük hızlar için bugün de geçerlidir."
  },
  {
   "instruction": "Biyoloji bilgisi soruluyor; doğru cevabı verebilirim.",
   "input": "DNA'nın çift sarmal yapısını biliyor musun?",
-  "output": "Evet, biliyorum. DNA, Watson ve Crick'in 1953'te açıkladığı çift sarmal yapıdadır; dört baz (A, T, G, C) iplikler arasında eşleşerek genetik bilgiyi saklar."
+  "output": "Evet, net bir bilgim var. DNA, Watson ve Crick'in 1953'te açıkladığı çift sarmal yapıdadır; dört baz (A, T, G, C) iplikler arasında eşleşerek genetik bilgiyi saklar."
  },
  {
   "instruction": "Havacılık tarihi soruluyor; bilgiyi verebilirim.",
   "input": "İlk motorlu uçuşu biliyor musun?",
-  "output": "Evet, biliyorum. Wright Kardeşler, 17 Aralık 1903'te Kitty Hawk'ta 'Flyer' adlı uçakla 12 saniyelik ilk kontrollü motorlu uçuşu gerçekleştirdi; havacılığın başlangıcı sayılır."
+  "output": "Evet, anlatabilirim. Wright Kardeşler, 17 Aralık 1903'te Kitty Hawk'ta 'Flyer' adlı uçakla 12 saniyelik ilk kontrollü motorlu uçuşu gerçekleştirdi; havacılığın başlangıcı sayılır."
  },
  {
   "instruction": "Bilimsel birim soruluyor; kesin bilgi verebilirim.",
   "input": "Ampulün icadını biliyor musun?",
-  "output": "Evet, biliyorum. Thomas Edison, 1879'da karbon filamanlı, uzun ömürlü ve ticari kullanılabilir ampulü geliştirdi; elektrikli aydınlatmayı evlere taşıyan isim olarak tarihe geçti."
+  "output": "Evet. Thomas Edison, 1879'da karbon filamanlı, uzun ömürlü ve ticari kullanılabilir ampulü geliştirdi; elektrikli aydınlatmayı evlere taşıyan isim olarak tarihe geçti."
  },
  {
   "instruction": "Coğrafya bilgisi soruluyor; bildiğimi belirtebilirim.",
   "input": "Bosphorus'un dünyadaki benzerlerini biliyor musun?",
-  "output": "Evet, biliyorum. Boğazlar genellikle iki kıtayı ayıran dar su geçitleridir; İstanbul Boğazı Avrupa ile Asya'yı ayıran stratejik bir su yoludur; benzer boğazlara Çanakkale Boğazı ve Cebelitarık Boğazı örnek verilebilir."
+  "output": "Doğru yerdesin. Boğazlar genellikle iki kıtayı ayıran dar su geçitleridir; İstanbul Boğazı Avrupa ile Asya'yı ayıran stratejik bir su yoludur; benzer boğazlara Çanakkale Boğazı ve Cebelitarık Boğazı örnek verilebilir."
  },
  {
   "instruction": "Matematik tarihi soruluyor; bilgiyi verebilirim.",
   "input": "Pisagor teoremini biliyor musun?",
-  "output": "Evet, biliyorum. Pisagor teoremi, dik üçgende hipotenüsün karesinin dik kenarların kareleri toplamına eşit olduğunu söyler (a²+b²=c²); antik çağdan beri geometrinin temelidir."
+  "output": "Elbette. Pisagor teoremi, dik üçgende hipotenüsün karesinin dik kenarların kareleri toplamına eşit olduğunu söyler (a²+b²=c²); antik çağdan beri geometrinin temelidir."
  },
  {
   "instruction": "Tarihî figür soruluyor; kısaca anlatabilirim.",
   "input": "Marie Curie'yi biliyor musun?",
-  "output": "Evet, biliyorum. Marie Curie, radyum ve polonyum elementlerini keşfeden iki dalda Nobel ödülü kazanan ilk bilim insanıdır (1903 Fizik, 1911 Kimya); radyoaktivite araştırmalarının öncüsüdür."
+  "output": "Bildiklerimi söyleyeyim. Marie Curie, radyum ve polonyum elementlerini keşfeden iki dalda Nobel ödülü kazanan ilk bilim insanıdır (1903 Fizik, 1911 Kimya); radyoaktivite araştırmalarının öncüsüdür."
  },
  {
   "instruction": "Çevre bilgisi soruluyor; doğru bilgiyi aktarabilirim.",
   "input": "Ozon tabakasını biliyor musun?",
-  "output": "Evet, biliyorum. Ozon tabakası, stratosferde Güneş'ten gelen zararlı morötesi ışınları süzen bir gaz tabakasıdır; 1980'lerdeki incelmesi Montreal Protokolü ile uluslararası iş birliğiyle durdurulmuştur."
+  "output": "Tabii. Ozon tabakası, stratosferde Güneş'ten gelen zararlı morötesi ışınları süzen bir gaz tabakasıdır; 1980'lerdeki incelmesi Montreal Protokolü ile uluslararası iş birliğiyle durdurulmuştur."
  },
  {
   "instruction": "Ekonomi kavramı soruluyor; bilgiyi anlatabilirim.",
   "input": "Enflasyonu biliyor musun?",
-  "output": "Evet, biliyorum. Enflasyon, genel fiyat düzeyinin zamanla artması ve paranın alım gücünün düşmesidir; genelde yüzde olarak yıllık olarak ölçülür ve merkez bankalarının temel takip ettiği göstergedir."
+  "output": "Bildiklerimi söyleyeyim. Enflasyon, genel fiyat düzeyinin zamanla artması ve paranın alım gücünün düşmesidir; genelde yüzde olarak yıllık olarak ölçülür ve merkez bankalarının temel takip ettiği göstergedir."
  },
  {
   "instruction": "Borsa kavramı soruluyor; bilgiyi verebilirim.",
   "input": "Borsa endeksi nedir, biliyor musun?",
-  "output": "Evet, biliyorum. Borsa endeksi, belli bir grup hissenin fiyat değişimini özetleyen göstergedir; BIST 100 örneğinde olduğu gibi piyasanın genel yönü hakkında fikir verir."
+  "output": "Borsa endeksi, belli bir grup hissenin fiyat değişimini özetleyen göstergedir; BIST 100 örneğinde olduğu gibi piyasanın genel yönü hakkında fikir verir."
  },
  {
   "instruction": "Tarih bilgisi soruluyor; net cevap verebilirim.",
   "input": "Kurtuluş Savaşı'nın başlangıcını biliyor musun?",
-  "output": "Evet, biliyorum. Millî Mücadele, 1919'da Mustafa Kemal'in Samsun'a çıkmasıyla fiilen başladı; 23 Nisan 1920'de TBMM'nin açılmasıyla kurumsal temelini attı."
+  "output": "Evet. Millî Mücadele, 1919'da Mustafa Kemal'in Samsun'a çıkmasıyla fiilen başladı; 23 Nisan 1920'de TBMM'nin açılmasıyla kurumsal temelini attı."
  },
  {
   "instruction": "Gelecek turnuva sonucu soruluyor; sonuç belirsiz, bilmiyorum demeliyim.",
